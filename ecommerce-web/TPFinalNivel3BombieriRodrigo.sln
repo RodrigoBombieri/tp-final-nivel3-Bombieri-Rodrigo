@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ecommerce-web", "ecommerce-web\ecommerce-web.csproj", "{1B945B1F-C3C2-4934-AEC1-E937519077CB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dominio", "dominio\dominio.csproj", "{9FCD2FBC-C165-4D7C-8F83-248B4325501C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "negocio", "negocio\negocio.csproj", "{9683EAE1-01DE-4738-904A-1CF2CF4DC203}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B945B1F-C3C2-4934-AEC1-E937519077CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B945B1F-C3C2-4934-AEC1-E937519077CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B945B1F-C3C2-4934-AEC1-E937519077CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B945B1F-C3C2-4934-AEC1-E937519077CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FCD2FBC-C165-4D7C-8F83-248B4325501C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FCD2FBC-C165-4D7C-8F83-248B4325501C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FCD2FBC-C165-4D7C-8F83-248B4325501C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FCD2FBC-C165-4D7C-8F83-248B4325501C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9683EAE1-01DE-4738-904A-1CF2CF4DC203}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9683EAE1-01DE-4738-904A-1CF2CF4DC203}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9683EAE1-01DE-4738-904A-1CF2CF4DC203}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9683EAE1-01DE-4738-904A-1CF2CF4DC203}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F5E1BB8-BC94-4AA2-84DE-31E2DAAF2060}
+	EndGlobalSection
+EndGlobal

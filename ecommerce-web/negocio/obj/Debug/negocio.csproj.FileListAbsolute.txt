@@ -1,0 +1,27 @@
+C:\Users\Rodrigo\Desktop\Programacion\c#\Proyecto Final - C# Nivel 2\MiPrimerApp\negocio\bin\Debug\negocio.dll
+C:\Users\Rodrigo\Desktop\Programacion\c#\Proyecto Final - C# Nivel 2\MiPrimerApp\negocio\bin\Debug\negocio.pdb
+C:\Users\Rodrigo\Desktop\Programacion\c#\Proyecto Final - C# Nivel 2\MiPrimerApp\negocio\bin\Debug\dominio.dll
+C:\Users\Rodrigo\Desktop\Programacion\c#\Proyecto Final - C# Nivel 2\MiPrimerApp\negocio\bin\Debug\dominio.pdb
+C:\Users\Rodrigo\Desktop\Programacion\c#\Proyecto Final - C# Nivel 2\MiPrimerApp\negocio\obj\Debug\negocio.csproj.AssemblyReference.cache
+C:\Users\Rodrigo\Desktop\Programacion\c#\Proyecto Final - C# Nivel 2\MiPrimerApp\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo\Desktop\Programacion\c#\Proyecto Final - C# Nivel 2\MiPrimerApp\negocio\obj\Debug\negocio.csproj.CopyComplete
+C:\Users\Rodrigo\Desktop\Programacion\c#\Proyecto Final - C# Nivel 2\MiPrimerApp\negocio\obj\Debug\negocio.dll
+C:\Users\Rodrigo\Desktop\Programacion\c#\Proyecto Final - C# Nivel 2\MiPrimerApp\negocio\obj\Debug\negocio.pdb
+C:\Users\Rodrigo\Desktop\Programacion\c#\Proyecto Final - C# Nivel 2\TPFinalNivel2_Bombieri\negocio\bin\Debug\negocio.dll
+C:\Users\Rodrigo\Desktop\Programacion\c#\Proyecto Final - C# Nivel 2\TPFinalNivel2_Bombieri\negocio\bin\Debug\negocio.pdb
+C:\Users\Rodrigo\Desktop\Programacion\c#\Proyecto Final - C# Nivel 2\TPFinalNivel2_Bombieri\negocio\bin\Debug\dominio.dll
+C:\Users\Rodrigo\Desktop\Programacion\c#\Proyecto Final - C# Nivel 2\TPFinalNivel2_Bombieri\negocio\bin\Debug\dominio.pdb
+C:\Users\Rodrigo\Desktop\Programacion\c#\Proyecto Final - C# Nivel 2\TPFinalNivel2_Bombieri\negocio\obj\Debug\negocio.csproj.AssemblyReference.cache
+C:\Users\Rodrigo\Desktop\Programacion\c#\Proyecto Final - C# Nivel 2\TPFinalNivel2_Bombieri\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo\Desktop\Programacion\c#\Proyecto Final - C# Nivel 2\TPFinalNivel2_Bombieri\negocio\obj\Debug\negocio.csproj.CopyComplete
+C:\Users\Rodrigo\Desktop\Programacion\c#\Proyecto Final - C# Nivel 2\TPFinalNivel2_Bombieri\negocio\obj\Debug\negocio.dll
+C:\Users\Rodrigo\Desktop\Programacion\c#\Proyecto Final - C# Nivel 2\TPFinalNivel2_Bombieri\negocio\obj\Debug\negocio.pdb
+C:\Users\Rodrigo\Desktop\Programacion\c#\Curso C# - Nivel 3\5.ConexionesDB\ecommerce-web\negocio\bin\Debug\negocio.dll
+C:\Users\Rodrigo\Desktop\Programacion\c#\Curso C# - Nivel 3\5.ConexionesDB\ecommerce-web\negocio\bin\Debug\negocio.pdb
+C:\Users\Rodrigo\Desktop\Programacion\c#\Curso C# - Nivel 3\5.ConexionesDB\ecommerce-web\negocio\bin\Debug\dominio.dll
+C:\Users\Rodrigo\Desktop\Programacion\c#\Curso C# - Nivel 3\5.ConexionesDB\ecommerce-web\negocio\bin\Debug\dominio.pdb
+C:\Users\Rodrigo\Desktop\Programacion\c#\Curso C# - Nivel 3\5.ConexionesDB\ecommerce-web\negocio\obj\Debug\negocio.csproj.AssemblyReference.cache
+C:\Users\Rodrigo\Desktop\Programacion\c#\Curso C# - Nivel 3\5.ConexionesDB\ecommerce-web\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo\Desktop\Programacion\c#\Curso C# - Nivel 3\5.ConexionesDB\ecommerce-web\negocio\obj\Debug\negocio.csproj.CopyComplete
+C:\Users\Rodrigo\Desktop\Programacion\c#\Curso C# - Nivel 3\5.ConexionesDB\ecommerce-web\negocio\obj\Debug\negocio.dll
+C:\Users\Rodrigo\Desktop\Programacion\c#\Curso C# - Nivel 3\5.ConexionesDB\ecommerce-web\negocio\obj\Debug\negocio.pdb
