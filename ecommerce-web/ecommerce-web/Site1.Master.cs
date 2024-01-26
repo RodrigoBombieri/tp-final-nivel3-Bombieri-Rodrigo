@@ -14,12 +14,25 @@ namespace ecommerce_web
         protected void Page_Load(object sender, EventArgs e)
         {
             imgAvatar.ImageUrl = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlECQSBGh032SFnX3lkF4CbEx9PvZxbFFcFscHj5qp9DjnVnYaohiMOKuLKrdJiF-8sVM&usqp=CAU";
+            if (Page is Default)
+            {
+                if (Seguridad.sesionActiva(Session["usuario"]))
+                {
+                    Usuario user = (Usuario)Session["usuario"];
+                    lblSalir.Text = user.Email;
+                    if (!string.IsNullOrEmpty(user.ImagenPerfil))
+                        imgAvatar.ImageUrl = "~/Images/" + user.ImagenPerfil;
+                }
+            }
+
+
+
             if (!(Page is Login || Page is Default || Page is Registro || Page is Error))
             {
                 if (!(Seguridad.sesionActiva(Session["usuario"])))
                     Response.Redirect("Login.aspx", false);
 
-                else 
+                else
                 {
                     Usuario user = (Usuario)Session["usuario"];
                     lblSalir.Text = user.Email;
